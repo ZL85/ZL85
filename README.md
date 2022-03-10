@@ -5,17 +5,12 @@
 - 📫 How to reach me? You can contact me with the email zongliang0726@163.com.
 
 
-#include<stdio.h>
-
-int main()
-
-{
-
-printf("What you do makes who you are!\n");
-
-return 0;
-
-}
+    #include<stdio.h>
+    int main()
+    {
+    printf("What you do makes who you are!\n");
+    return 0;
+    }
 
 <!---
 ZL85/ZL85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
