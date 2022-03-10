@@ -6,10 +6,15 @@
 
 
     #include<stdio.h>
+    
     int main()
+    
     {
+    
     printf("What you do makes who you are!\n");
+    
     return 0;
+    
     }
 
 <!---
